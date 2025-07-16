@@ -1,0 +1,79 @@
+{
+  "welcome": {
+    "title": "Welcome to Money Tree!",
+    "subtitle": "Let's learn to save together",
+    "getStarted": "Get Started"
+  },
+  "tree": {
+    "title": "My Money Tree",
+    "totalSaved": "Total Saved",
+    "addMoney": "Add Money",
+    "goals": "Goals",
+    "tasks": "Tasks",
+    "settings": "Settings",
+    "level": "Level",
+    "leaves": "Leaves",
+    "fruits": "Fruits",
+    "flowers": "Flowers"
+  },
+  "money": {
+    "add": "Add Savings",
+    "amount": "Amount",
+    "description": "Description",
+    "selectGoal": "Select Goal",
+    "save": "Save",
+    "cancel": "Cancel",
+    "currency": "€",
+    "pending": "Pending Approval",
+    "approved": "Approved",
+    "rejected": "Rejected"
+  },
+  "goals": {
+    "title": "Savings Goals",
+    "addNew": "New Goal",
+    "name": "Name",
+    "targetAmount": "Target Amount",
+    "currentAmount": "Current Amount",
+    "remaining": "Remaining",
+    "completed": "Completed!",
+    "progress": "Progress"
+  },
+  "tasks": {
+    "title": "Tasks",
+    "addNew": "New Task",
+    "reward": "Reward",
+    "markCompleted": "Mark as Done",
+    "completed": "Completed",
+    "pending": "Pending Approval",
+    "approved": "Approved"
+  },
+  "parent": {
+    "title": "Parent View",
+    "enterPin": "Enter PIN Code",
+    "pendingTransactions": "Pending Transactions",
+    "approve": "Approve",
+    "reject": "Reject",
+    "manageGoals": "Manage Goals",
+    "manageTasks": "Manage Tasks",
+    "statistics": "Statistics"
+  },
+  "common": {
+    "yes": "Yes",
+    "no": "No",
+    "ok": "OK",
+    "close": "Close",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "euro": "€",
+    "loading": "Loading..."
+  },
+  "messages": {
+    "goalCompleted": "Great! Goal achieved!",
+    "moneyAdded": "Money added to savings!",
+    "taskCompleted": "Task completed!",
+    "treeGrew": "Your tree grew!",
+    "pinIncorrect": "Incorrect PIN code",
+    "fillRequiredFields": "Fill all required fields"
+  }
+}

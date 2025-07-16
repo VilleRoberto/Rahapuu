@@ -1,0 +1,79 @@
+{
+  "welcome": {
+    "title": "Tervetuloa Rahapuuhun!",
+    "subtitle": "Opitaan säästämään yhdessä",
+    "getStarted": "Aloita"
+  },
+  "tree": {
+    "title": "Minun Rahapuuni",
+    "totalSaved": "Säästetty yhteensä",
+    "addMoney": "Lisää rahaa",
+    "goals": "Tavoitteet",
+    "tasks": "Tehtävät",
+    "settings": "Asetukset",
+    "level": "Taso",
+    "leaves": "Lehdet",
+    "fruits": "Hedelmät",
+    "flowers": "Kukat"
+  },
+  "money": {
+    "add": "Lisää säästöjä",
+    "amount": "Summa",
+    "description": "Kuvaus",
+    "selectGoal": "Valitse tavoite",
+    "save": "Tallenna",
+    "cancel": "Peru",
+    "currency": "€",
+    "pending": "Odottaa hyväksyntää",
+    "approved": "Hyväksytty",
+    "rejected": "Hylätty"
+  },
+  "goals": {
+    "title": "Säästötavoitteet",
+    "addNew": "Uusi tavoite",
+    "name": "Nimi",
+    "targetAmount": "Tavoitesumma",
+    "currentAmount": "Nykyinen summa",
+    "remaining": "Jäljellä",
+    "completed": "Saavutettu!",
+    "progress": "Edistyminen"
+  },
+  "tasks": {
+    "title": "Tehtävät",
+    "addNew": "Uusi tehtävä",
+    "reward": "Palkkio",
+    "markCompleted": "Merkitse tehdyksi",
+    "completed": "Valmis",
+    "pending": "Odottaa hyväksyntää",
+    "approved": "Hyväksytty"
+  },
+  "parent": {
+    "title": "Vanhempi-näkymä",
+    "enterPin": "Syötä PIN-koodi",
+    "pendingTransactions": "Odottavat tapahtumat",
+    "approve": "Hyväksy",
+    "reject": "Hylkää",
+    "manageGoals": "Hallitse tavoitteita",
+    "manageTasks": "Hallitse tehtäviä",
+    "statistics": "Tilastot"
+  },
+  "common": {
+    "yes": "Kyllä",
+    "no": "Ei",
+    "ok": "OK",
+    "close": "Sulje",
+    "delete": "Poista",
+    "edit": "Muokkaa",
+    "add": "Lisää",
+    "euro": "€",
+    "loading": "Ladataan..."
+  },
+  "messages": {
+    "goalCompleted": "Hienoa! Tavoite saavutettu!",
+    "moneyAdded": "Raha lisätty säästöihin!",
+    "taskCompleted": "Tehtävä suoritettu!",
+    "treeGrew": "Puusi kasvoi!",
+    "pinIncorrect": "Väärä PIN-koodi",
+    "fillRequiredFields": "Täytä kaikki vaaditut kentät"
+  }
+}
